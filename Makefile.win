@@ -1,5 +1,5 @@
 # This is a makefile for win32 systems (VC 5.0).
-# Christopher Blizzard
+# Christopherfff Blizzard
 # http://odin.appliedtheory.com/
 
 CC = cl
